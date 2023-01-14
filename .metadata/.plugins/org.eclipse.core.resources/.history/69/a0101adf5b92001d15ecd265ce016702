@@ -1,0 +1,5 @@
+package com.infy.ledegerdefaulter.app.model;
+
+public class Ledeger {
+
+}
